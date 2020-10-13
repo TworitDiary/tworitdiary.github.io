@@ -1,7 +1,7 @@
 bundle exec jekyll build
 
 touch _site/CNAME
-echo 'diary.tworitdash.in' > _deploy/CNAME
+echo 'diary.tworitdash.in' > _site/CNAME
 cd _site
 
 git add .
