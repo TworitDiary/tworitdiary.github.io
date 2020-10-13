@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introduction and Why am I doing this?"
+title: "Introduction and \"Why am I doing this?\" "
 ---
 
 ### Introduction
