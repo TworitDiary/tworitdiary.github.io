@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Oct15"
+---
+
+### The schedule
+
+Started the day late at almost 9h00 EST. I wanted to study and when I looked at the lecture slides of sensor signal and data processing (SSDP), I was a little lost. Therefore, I started looking for YouTube videos explaining the same thing. 
+
+I had a nice sandwich for brunch with homemade hot chocolate. I watched two episodes of "boy meets world". Then, I started to study again. I stopped studying after the meeting with my supervisor. I was feeling a little exhausted. I attended the lecture of SSDP and pretty much didn't understand anything.
+
+Had dinner at almost 20h00. We ordered pizzas from Dominos with a nice discount. While eating we watched one of my all time favorite; Home Alone 2, Lost in New York. I have probably watched it more than a 150 times. It was not enough TV for me. So, I watched Iron Man also after that. 
+
+### Work related
+
+Finally, got things on track as far as the scope of the project is concerned. I am going to study more about turbulence and the modeling of rain drop size distribution. Got some insight from him and also got to know that some other people have addressed some problems like this in the literature. Conventionally, drop size distribution (DSD) in a wind model is considered uniform. However, these people from Israel have done models which take into account these effects and they are rare. To use them, I need to study them first. Furthermore, I need to think how those data can be used for radar observations. I probably need to sample that data with the specifications of the radar. It is like looking at the model from time to time and not getting all the minute details. 
+
+The model, however will contain all the details with maximum sampling in space and time. Now, for uniform DSD and for non-uniform DSD, I need to study the models from the literature. That is what we have agreed on as my short term goals for now. 
+
+Furthermore, I need to find models where they consider evaporation into account. Sometimes, bigger rain drops, when they fall, on the way they evaporate and never make it to the ground. The model developed by people so far don't consider that effect for precipitation. It can be a good research question for me for future. Therefore, DSD and evaporation at the time of precipitation .
+
+### Note to self (Lostarmour log 15.10.20.0)
+#### Pending or on going from yesterday:
+
+*  Be a little organized from tomorrow.
+*  Take the medicine.
+*  Learn how to use GithHub flavored emojis on this blog so that I do not have to use :P, :D and or <3. When I figure it out, I will write about them.
+*  Try reading the book "Doppler radar and Weather Observation".
+*  Try reading one page of the book "General Theory of Relativity" by Paul Dirac. 
+
+#### New log (Lostarmour log 15.10.20.1)
+
+* Write the diary earlier than today. Definitely earlier than 23h30 EST.
+* Learn about Large Eddy Simulations
+* Start writing the presentation about the department servers. I need to do an introduction about how to use the RedHat Linux servers for different purposes along with how to debug the frequent problems that occur in them for the employees and also for the new master students in our group. Will be fun sharing my experience. 
+
+
+
