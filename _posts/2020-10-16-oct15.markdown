@@ -13,14 +13,14 @@ Had dinner at almost 20h00. We ordered pizzas from Dominos with a nice discount.
 
 ### Work related
 
-Finally, got things on track as far as the scope of the project is concerned. I am going to study more about turbulence and the modeling of rain drop size distribution. Got some insight from him and also got to know that some other people have addressed some problems like this in the literature. Conventionally, drop size distribution (DSD) in a wind model is considered uniform. However, these people from Israel have done models which take into account these effects and they are rare. To use them, I need to study them first. Furthermore, I need to think how those data can be used for radar observations. I probably need to sample that data with the specifications of the radar. It is like looking at the model from time to time and not getting all the minute details. 
+Finally, got things on track as far as the scope of the project is concerned. I am going to study more about turbulence and the modeling of rain drop size distribution. Got some insight from my daily supervisor and also got to know that some other people have addressed some problems like this in the literature. Conventionally, drop size distribution (DSD) in a wind model is considered uniform. However, these people from Israel have done models which take into account these effects and they are rare. To use them, I need to study them first. Furthermore, I need to think how those data can be used for radar observations. I probably need to sample that data with the specifications of the radar. It is like looking at the model from time to time and not getting all the minute details. 
 
 The model, however will contain all the details with maximum sampling in space and time. Now, for uniform DSD and for non-uniform DSD, I need to study the models from the literature. That is what we have agreed on as my short term goals for now. 
 
 Furthermore, I need to find models where they consider evaporation into account. Sometimes, bigger rain drops, when they fall, on the way they evaporate and never make it to the ground. The model developed by people so far don't consider that effect for precipitation. It can be a good research question for me for future. Therefore, DSD and evaporation at the time of precipitation .
 
-### Note to self (Lostarmour log 15.10.20.0)
-#### Pending or on going from yesterday:
+### Note to self 
+#### Pending or on going from yesterday: (Lostarmour log 15.10.20.0)
 
 *  Be a little organized from tomorrow.
 *  Take the medicine.
