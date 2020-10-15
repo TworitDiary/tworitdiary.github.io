@@ -17,7 +17,7 @@ Finally, got things on track as far as the scope of the project is concerned. I 
 
 The model, however will contain all the details with maximum sampling in space and time. Now, for uniform DSD and for non-uniform DSD, I need to study the models from the literature. That is what we have agreed on as my short term goals for now. 
 
-Furthermore, I need to find models where they consider evaporation into account. Sometimes, bigger rain drops, when they fall, on the way they evaporate and never make it to the ground. The model developed by people so far don't consider that effect for precipitation. It can be a good research question for me for future. Therefore, DSD and evaporation at the time of precipitation .
+Furthermore, I need to find models where they consider evaporation into account. Sometimes, bigger rain drops, when they fall, on the way they evaporate and never make it to the ground. The model developed by people so far don't consider that effect for precipitation. It can be a good research question for me for future. Therefore, DSD and evaporation at the time of precipitation are two of the open questions I have bumped into so far.
 
 ### Note to self 
 #### Pending or on going from yesterday: (Lostarmour log 15.10.20.0)
