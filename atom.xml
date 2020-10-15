@@ -1,4 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="/atom.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-10-15T00:17:36+02:00</updated><id>/atom.xml</id><title type="html">Lostarmour’s daily blog</title><subtitle>This helps him find his armour!</subtitle><author><name>Tworit Dash</name><email>tworitdash@gmail.com</email></author><entry><title type="html">Oct14</title><link href="/oct13/" rel="alternate" type="text/html" title="Oct14" /><published>2020-10-14T00:00:00+02:00</published><updated>2020-10-14T00:00:00+02:00</updated><id>/oct13</id><content type="html" xml:base="/oct13/">&lt;h3 id=&quot;the-schedule&quot;&gt;The schedule&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="/atom.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-10-16T01:07:47+02:00</updated><id>/atom.xml</id><title type="html">Lostarmour’s daily blog</title><subtitle>This helps him find his armour!</subtitle><author><name>Tworit Dash</name><email>tworitdash@gmail.com</email></author><entry><title type="html">Oct15</title><link href="/oct15/" rel="alternate" type="text/html" title="Oct15" /><published>2020-10-16T00:00:00+02:00</published><updated>2020-10-16T00:00:00+02:00</updated><id>/oct15</id><content type="html" xml:base="/oct15/">&lt;h3 id=&quot;the-schedule&quot;&gt;The schedule&lt;/h3&gt;
+
+&lt;p&gt;Started the day late at almost 9h00 EST. I wanted to study and when I looked at the lecture slides of sensor signal and data processing (SSDP), I was a little lost. Therefore, I started looking for YouTube videos explaining the same thing.&lt;/p&gt;
+
+&lt;p&gt;I had a nice sandwich for brunch with homemade hot chocolate. I watched two episodes of “boy meets world”. Then, I started to study again. I stopped studying after the meeting with my supervisor. I was feeling a little exhausted. I attended the lecture of SSDP and pretty much didn’t understand anything.&lt;/p&gt;
+
+&lt;p&gt;Had dinner at almost 20h00. We ordered pizzas from Dominos with a nice discount. While eating we watched one of my all time favorite; Home Alone 2, Lost in New York. I have probably watched it more than a 150 times. It was not enough TV for me. So, I watched Iron Man also after that.&lt;/p&gt;
+
+&lt;h3 id=&quot;work-related&quot;&gt;Work related&lt;/h3&gt;
+
+&lt;p&gt;Finally, got things on track as far as the scope of the project is concerned. I am going to study more about turbulence and the modeling of rain drop size distribution. Got some insight from him and also got to know that some other people have addressed some problems like this in the literature. Conventionally, drop size distribution (DSD) in a wind model is considered uniform. However, these people from Israel have done models which take into account these effects and they are rare. To use them, I need to study them first. Furthermore, I need to think how those data can be used for radar observations. I probably need to sample that data with the specifications of the radar. It is like looking at the model from time to time and not getting all the minute details.&lt;/p&gt;
+
+&lt;p&gt;The model, however will contain all the details with maximum sampling in space and time. Now, for uniform DSD and for non-uniform DSD, I need to study the models from the literature. That is what we have agreed on as my short term goals for now.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, I need to find models where they consider evaporation into account. Sometimes, bigger rain drops, when they fall, on the way they evaporate and never make it to the ground. The model developed by people so far don’t consider that effect for precipitation. It can be a good research question for me for future. Therefore, DSD and evaporation at the time of precipitation .&lt;/p&gt;
+
+&lt;h3 id=&quot;note-to-self-lostarmour-log-1510200&quot;&gt;Note to self (Lostarmour log 15.10.20.0)&lt;/h3&gt;
+&lt;h4 id=&quot;pending-or-on-going-from-yesterday&quot;&gt;Pending or on going from yesterday:&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Be a little organized from tomorrow.&lt;/li&gt;
+  &lt;li&gt;Take the medicine.&lt;/li&gt;
+  &lt;li&gt;Learn how to use GithHub flavored emojis on this blog so that I do not have to use :P, :D and or &amp;lt;3. When I figure it out, I will write about them.&lt;/li&gt;
+  &lt;li&gt;Try reading the book “Doppler radar and Weather Observation”.&lt;/li&gt;
+  &lt;li&gt;Try reading one page of the book “General Theory of Relativity” by Paul Dirac.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;new-log-lostarmour-log-1510201&quot;&gt;New log (Lostarmour log 15.10.20.1)&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Write the diary earlier than today. Definitely earlier than 23h30 EST.&lt;/li&gt;
+  &lt;li&gt;Learn about Large Eddy Simulations&lt;/li&gt;
+  &lt;li&gt;Start writing the presentation about the department servers. I need to do an introduction about how to use the RedHat Linux servers for different purposes along with how to debug the frequent problems that occur in them for the employees and also for the new master students in our group. Will be fun sharing my experience.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Tworit Dash</name><email>tworitdash@gmail.com</email></author><summary type="html">The schedule</summary></entry><entry><title type="html">Oct14</title><link href="/oct13/" rel="alternate" type="text/html" title="Oct14" /><published>2020-10-14T00:00:00+02:00</published><updated>2020-10-14T00:00:00+02:00</updated><id>/oct13</id><content type="html" xml:base="/oct13/">&lt;h3 id=&quot;the-schedule&quot;&gt;The schedule&lt;/h3&gt;
 
 &lt;p&gt;Today, I started my day a little late, around 9h30 EST. I wanted to study, but couldn’t concentrate well. However, I started a little bit and took intermittent breaks. Somehow, I managed to read two lectures of a course.&lt;/p&gt;
 
