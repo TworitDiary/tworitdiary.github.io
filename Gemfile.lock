@@ -282,6 +282,7 @@ DEPENDENCIES
   jekyll (~> 3.9.0)
   jekyll-feed (~> 0.12)
   jekyll-theme-so-simple
+  jemoji
   minima (~> 2.5)
   rake
   stringex

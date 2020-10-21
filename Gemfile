@@ -33,3 +33,4 @@ gem "jekyll-theme-so-simple"
 gem "rake"
 gem "stringex"
 gem "github-pages", "~> 209",  group: :jekyll_plugins
+gem "jemoji"
