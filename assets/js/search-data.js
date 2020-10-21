@@ -13,4 +13,19 @@ var store = [{
         "excerpt":"The schedule Started the day late at almost 9h00 EST. I wanted to study and when I looked at the lecture slides of sensor signal and data processing (SSDP), I was a little lost. Therefore, I started looking for YouTube videos explaining the same thing. I had a nice sandwich...","categories": [],
         "tags": [],
         "url": "/oct15/"
+      },{
+        "title": "Oct16-18",
+        "excerpt":"Schedule It was a happy weekend. On Friday, I had a midterm to attend from a master student. It was about antennas and optimization. I really enjoyed it and also asked many questions. After work, I started a movie marathon on disney+. It was all from Marvel. I watched three...","categories": [],
+        "tags": [],
+        "url": "/oct16-18/"
+      },{
+        "title": "Oct19",
+        "excerpt":"Schedule This, I consider as a big day in my life. Although I graduated from my master program here at TU Delft on 27th August, my degree wasn’t awarded to me on that day due to corona-virus situation. This was the day, I had the appointment at the university to...","categories": [],
+        "tags": [],
+        "url": "/oct19/"
+      },{
+        "title": "Oct20-21",
+        "excerpt":"Schedule These two days had similar schedule. I woke up early. I started doing the presentation about the servers for the group for half day. I started reading some papers on atmospheric remote sensing and turbulence modeling. I used another half day for that. Although, I started reading the papers,...","categories": [],
+        "tags": [],
+        "url": "/oct2-21/"
       }]
