@@ -10,7 +10,7 @@ Cum laude ( Latin : cum = met, laus = honors, 'with honors') is a designation us
 
 Then, I went to my office at the university and studied till 15h30. Then, I came home walking. A weird and rare thing happened to me while I was walking inside the university campus. A girl was cycling towards me with absolutely no headphones on, yet, she was singing. It is a from a British band that I like. They are called `AltJ` . The song is `Breezeblocks`. I won't say which part of the song she was singing. However, the coincidence was very weird and unexpected given the fact that the band is not very popular (I guess people are too stupid and ignorant these days to appreciate the beauty of such a genius band). 
 
-While coming back, I grabbed a pita chicken gyros from a Greek take away shop and came home. These days, I like walking to the university for two reasons. First, while walking, I get a lot of ideas and day dreams :stuck_out_tongue: . Second, I have got a flat tire and I don't want to fix it now. 
+While coming back, I grabbed a pita chicken gyros from a Greek take away shop and came home. These days, I like walking to the university for two reasons. First, while walking, I get a lot of ideas and day dreams :satisfied: . Second, I have got a flat tire and I don't want to fix it now. 
 
 I made butter chicken with my house-mates for dinner. 
 
@@ -19,3 +19,5 @@ I made butter chicken with my house-mates for dinner.
 * Start writing the presentation about the department servers. I need to do an introduction about how to use the RedHat Linux servers for different purposes along with how to debug the frequent problems that occur in them for the employees and also for the new master students in our group. Will be fun sharing my experience. 
 
 * Please read some papers to catch up the pace of the Ph.D. work.  
+
+* Finally you see some github flavored emojis in the page now :rocket:
