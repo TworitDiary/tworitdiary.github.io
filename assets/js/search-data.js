@@ -28,4 +28,9 @@ var store = [{
         "excerpt":"Schedule These two days had similar schedule. I woke up early. I started doing the presentation about the servers for the group for half day. I started reading some papers on atmospheric remote sensing and turbulence modeling. I used another half day for that. Although, I started reading the papers,...","categories": [],
         "tags": [],
         "url": "/oct2-21/"
+      },{
+        "title": "Oct22-23",
+        "excerpt":"Schedule 22/10/2020 On October 22, I had to go to the university to collect my friend’s degree certificate as he couldn’t come to collect it himself as he works at a different city now. I started my day early and went to the university at 8h00. There, I met some...","categories": [],
+        "tags": [],
+        "url": "/oct21-22/"
       }]
