@@ -33,4 +33,9 @@ var store = [{
         "excerpt":"Schedule 22/10/2020 On October 22, I had to go to the university to collect my friend’s degree certificate as he couldn’t come to collect it himself as he works at a different city now. I started my day early and went to the university at 8h00. There, I met some...","categories": [],
         "tags": [],
         "url": "/oct21-22/"
+      },{
+        "title": "What have I done?",
+        "excerpt":"Where was I? I haven’t been blogging since 23rd October 2020. Now, I think this blog site will just remain active once in a while because now, writing every day is not possible. From October till December end, it was quite an exciting journey for me. The pandemic is never-ending...","categories": [],
+        "tags": [],
+        "url": "/what-have-i-done/"
       }]
