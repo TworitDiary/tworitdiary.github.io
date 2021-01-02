@@ -90,7 +90,7 @@ On the holiday season, with all the neighboring decorations made by people, my r
 
 Overall, the year 2020 was not all that bad. I graduated cum laude in the middle of the pandemic from the master's program at TU Delft. A memorable event indeed. I received my Ph.D. offer as well in the middle of the pandemic. I am grateful to everyone who was a part of my journey directly or indirectly. I hope this pandemic ends soon and I wish everyone good health and mental stability this coming year. I look forward to working harder in the new year with some lifestyle changes (healthy :sweat_smile:). Hopefully, I will contribute something to the development of society in the coming year. Fingers crossed. 
 
-#### New log (Lostarmour log 01.10.21.1)
+#### New log (Lostarmour log 01.01.21.1)
 
 * Please read some more papers per day to catch up with the pace of the Ph.D. work.  
 * Please continue reading "The Road to Reality" 
